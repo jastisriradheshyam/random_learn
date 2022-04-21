@@ -1,2 +1,3 @@
-# Node_js_stuff
-Node js stuff
+# Random Learn
+
+All the random stuff that for myself
