@@ -1,0 +1,1 @@
+- Install from a particular branch : `go install REPO_LINK@BRANCH_NAME`
