@@ -1,0 +1,1 @@
+- [Why should I prefer Fastify to Expressjs? - DEV Community 👩‍💻👨‍💻](https://dev.to/eomm/why-should-i-prefer-fastify-to-expressjs-44c4)
