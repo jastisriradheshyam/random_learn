@@ -1,0 +1,2 @@
+- Use `println` for normal printing
+- Use `eprintln` for error printing and progress messages
