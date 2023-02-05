@@ -1,0 +1,12 @@
+{
+  "name": "undici",
+  "version": "1.0.0",
+  "description": "- A HTTP 1.1 client   - Keep alive by default   - LIFO scheduling   - No pipelining   - Unlimited connections   - Can follow redirects - Re-invents HTTP primitives and relies directly on `SOCKETS` - Comes with its own built-in mocks - **Comment**: Weird work on naming   - HTTP 1.1 -> 11 -> UNDICI",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
