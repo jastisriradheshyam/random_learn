@@ -1,4 +1,10 @@
-# Multimedia
+# Random Spins
+
+## Projects
+
+- [Project ELLORA](https://news.microsoft.com/en-in/features/microsoft-research-project-helps-languages-survive-and-thrive/)
+  - By Microsoft
+  - AI tech to represent languages with less presence.
 
 ## Songs
 
