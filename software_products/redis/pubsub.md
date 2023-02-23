@@ -8,3 +8,4 @@
 
 [1]: [node-redis/pub-sub.md at master · redis/node-redis](https://github.com/redis/node-redis/blob/master/docs/pub-sub.md)
 [2]: [database - What are the main differences between Redis Pub/Sub and Redis Stream? - Stack Overflow](https://stackoverflow.com/questions/59540563/what-are-the-main-differences-between-redis-pub-sub-and-redis-stream)
+[3]: [Redis Pub/Sub | Redis](https://redis.io/docs/manual/pubsub/)
