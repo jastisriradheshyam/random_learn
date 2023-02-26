@@ -1,0 +1,2 @@
+- [concurrency - Is JavaScript guaranteed to be single-threaded? - Stack Overflow](https://stackoverflow.com/questions/2734025/is-javascript-guaranteed-to-be-single-threaded/2734311#2734311)
+- [The event loop - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
