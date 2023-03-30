@@ -40,23 +40,41 @@ There are four sleeping states [3]
 
 ## Different types of power management states
 
-### Sleep (S) State
+### Sleep (S) State [9]
 
+- Also know as "System states"
+- S1-S4 are types of sleeping states within the global system state, G1.
 - List of `S States`
+
   - `S0`
+    - Active and can be in low power state (C states) and will be in G0 state
   - `S1`
+    - Sleeping state
   - `S2`
+    - Sleeping state
   - `S3`
+    - Sleeping state
   - `S4`
+    - Sleeping state
   - `S5`
+    - Soft Off State
 
 ### Global (G) State
 
+- Defined in ACPI (Advanced Configuration and Power Interface) Specification and maintained by "Unified Extensible Firmware Interface Forum" [8]
+- G states refer to the various system power states that a computer or device can enter in order to conserve power.
+- Also known as `Global System States`
+- Manufacturers can define additional `G states` beyond the standard `G states`
+
 - List of `G States`
   - `G0`
+    - all components are fully powered on and functional
   - `G1`
+    - low-power state (sleep or standby)
   - `G2`
+    - deeper sleep state
   - `G3`
+    - deepest sleep state / powered off
 
 ### Processor Package (C) State (May be only related to Intel / AMD processor - X86 / X86_64) [5]
 
@@ -107,3 +125,7 @@ There are four sleeping states [3]
 [6]: [What is the C-State? | Dell India](https://www.dell.com/support/kbdoc/en-in/000060621/what-is-the-c-state)
 
 [7]: [Processor P-states and C-states - Thomas-Krenn-Wiki](https://www.thomas-krenn.com/en/wiki/Processor_P-states_and_C-states)
+
+[8]: [Specifications | Unified Extensible Firmware Interface Forum](https://uefi.org/specifications)
+
+[9]: [Advanced Configuration and Power Interface (ACPI) Specification, Version 6.4 - ACPI_Spec_6_4_Jan22.pdf](https://uefi.org/sites/default/files/resources/ACPI_Spec_6_4_Jan22.pdf)
