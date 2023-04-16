@@ -110,6 +110,13 @@ There are four sleeping states [3]
   - `P0`
     - `P0` is the highest frequency (with the highest voltage).
 
+## Enable/Disable particular C state (Linux) 
+
+- Disable: `sudo cpupower idle-set -d C_STATE_NUMBER`
+  - Disable C2 state : `sudo cpupower idle-set -d 2`
+- Enable:  `sudo cpupower idle-set -e 2`
+  - Enable C2 state  : `sudo cpupower idle-set -e 2`
+
 ## References:
 
 [1]: [Microsoft is Forcing me to Buy MacBooks - Windows Modern Standby - YouTube](https://www.youtube.com/watch?v=OHKKcd3sx2c)
