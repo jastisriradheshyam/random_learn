@@ -1,0 +1,3 @@
+# Linode
+
+- Acquired by Akamai
