@@ -33,5 +33,21 @@
   - `accessory` modules
     - a large suite of tests and utilities for memory allocation, string operations, and random number generation
 
-[1]:[SQLite: Past, Present, and Future](https://www.vldb.org/pvldb/vol15/p3535-gaffney.pdf)
-[2]: 2021. Recommended Formats Statement. Technical Report. United States Library of Congress
+### `compiler` modules
+
+- Consists of
+  - > tokenizer
+  - > parser
+  - > code generator
+- The aforementioned components translated SQL into bytecode program.
+  - A bytecode program consists of one or more virtual instructions.
+  - Each virtual instruction includes a unique opcode and several operands.
+
+### `core` modules
+
+- 
+
+## References
+
+- [1]:[SQLite: Past, Present, and Future](https://www.vldb.org/pvldb/vol15/p3535-gaffney.pdf)
+- [2]:2021. Recommended Formats Statement. Technical Report. United States Library of Congress
