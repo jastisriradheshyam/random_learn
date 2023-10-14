@@ -36,6 +36,7 @@ NOTE: Only practical apps and services
 - Podman
 - LXC
 - Kubernetes
+  - Lens (https://docs.k8slens.dev/)
 
 ## Task Management
 
@@ -50,6 +51,10 @@ NOTE: Only practical apps and services
   - Gitlab
   - Github
   - Bitbucket
+
+## CI / CD
+
+- Argo CD - https://argoproj.github.io/cd/
 
 ## Designs
 
@@ -69,3 +74,7 @@ NOTE: Only practical apps and services
 
 - Bulk Mail
   - Amazon SES (Amazon Simple Email Service)
+
+## Monitoring
+
+- [Monitoring Tools](../observability_monitoring/tools.md)
