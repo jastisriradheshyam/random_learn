@@ -20,6 +20,15 @@ NOTE: Only practical apps and services
   - Java
   - Scala
   - Kotlin
+  - Clojure - https://clojure.org
+- Erlang - https://www.erlang.org/
+- F# - https://learn.microsoft.com/en-us/dotnet/fsharp/what-is-fsharp
+- Lisp - https://lisp-lang.org
+- Ruby - https://www.ruby-lang.org/en/
+- Erlang VM
+  - Elixir: https://elixir-lang.org/
+- Perl - https://www.perl.org/
+- OCaml - https://ocaml.org/
 
 ## IAC (Infrastructure as a Code)
 
@@ -75,6 +84,16 @@ NOTE: Only practical apps and services
 - Bulk Mail
   - Amazon SES (Amazon Simple Email Service)
 
+## Database
+
+- [Databases](../database/list_and_services.md)
+
 ## Monitoring
 
 - [Monitoring Tools](../observability_monitoring/tools.md)
+
+## Message Brokers
+
+- Kafka
+- RabbitMQ
+- NATS
