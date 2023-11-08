@@ -6,6 +6,7 @@ NOTE: Only practical apps and services
 
 - RAD Studio - https://www.embarcadero.com/products/rad-studio/whats-new-in-11-alexandria
   - Delphi: https://www.embarcadero.com/products/delphi/product-editions
+  - lazarus: Delphi compatible open source alternative, https://www.lazarus-ide.org/index.php?page=about
 -  Flutter 
 
 ## Execution environments / Programming Languages
