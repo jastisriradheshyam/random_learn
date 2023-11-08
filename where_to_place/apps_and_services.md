@@ -36,6 +36,7 @@ NOTE: Only practical apps and services
   - Elixir: https://elixir-lang.org/
 - Perl - https://www.perl.org/
 - OCaml - https://ocaml.org/
+- RED - https://www.red-lang.org/p/about.html
 
 ## IAC (Infrastructure as a Code)
 
