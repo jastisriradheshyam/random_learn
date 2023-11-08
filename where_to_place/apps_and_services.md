@@ -5,7 +5,7 @@ NOTE: Only practical apps and services
 ## Cross Platfrom apps
 
 - RAD Studio - https://www.embarcadero.com/products/rad-studio/whats-new-in-11-alexandria
- - Delphi: https://www.embarcadero.com/products/delphi/product-editions
+  - Delphi: https://www.embarcadero.com/products/delphi/product-editions
 -  Flutter 
 
 ## Execution environments / Programming Languages
