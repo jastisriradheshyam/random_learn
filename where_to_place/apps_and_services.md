@@ -2,6 +2,16 @@
 
 NOTE: Only practical apps and services
 
+## Cross Platfrom apps
+
+- RAD Studio - https://www.embarcadero.com/products/rad-studio/whats-new-in-11-alexandria
+  - Delphi: https://www.embarcadero.com/products/delphi/product-editions
+  - lazarus: Delphi compatible open source alternative, https://www.lazarus-ide.org/index.php?page=about
+-  Flutter
+
+### References
+- https://github.com/sudhakar3697/awesome-electron-alternatives
+
 ## Execution environments / Programming Languages
 
 - Go
@@ -29,6 +39,7 @@ NOTE: Only practical apps and services
   - Elixir: https://elixir-lang.org/
 - Perl - https://www.perl.org/
 - OCaml - https://ocaml.org/
+- RED - https://www.red-lang.org/p/about.html
 
 ## IAC (Infrastructure as a Code)
 
