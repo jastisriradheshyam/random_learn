@@ -4,6 +4,61 @@
 - RDS
 - Dynomo DB
 - EC2
-- ELB
+    - pay only for running instances, not stopped and terminated instances
+    - each amazon ec2 instace type grouped under an instance family
+	    - General purpose
+            - Balanced resources
+ 	    - Compute optimized
+            - Compute intensive tasks
+            - Gaming servers
+            - High performance computing (HPC)
+            - Scientific modeling
+        - Memory optimized
+            - Memory intensive tasks
+        - Accelerated computing
+            - Floating point number calculations
+            - Graphics processing
+            - Data pattern matching
+            - Utilize hardware accelerators
+        - Storage optimized
+            - High performance for locally stored data
+            - distributed file systems, data warehousing applications, and high-frequency online transaction processing (OLTP) systems
+            - Storage optimized instances are designed to deliver tens of thousands of low-latency, random IOPS to applications.
+    - Billing
+        - On demand
+        - Savings plan
+            - committment to certain amount of usage
+            - low pricing due to committment
+            - 1 or 3 year term
+        - Reserved Instances
+            - steady state workloads (predictible usage)
+            - upto 75% discount vs on demand pricing
+            - requires committment of 1 or 3 years
+        - spot instances
+            - spare ec2 computing capacity
+            - upto 90% discount vs on demand price
+            - AWS can reclaim the instance at any time (2 min warning)
+        - dedicated hosts
+            - no body shares tenancy with these instances
+            - these are dedicated phydical instances
+    - scaling
+        - dynamic scaling: responds to changing demand
+        - predictive scaling: schedules the instances based on predicted demand
+        - To scale faster, we can use dynamic scaling and predictive scaling together.
+        - auto scaling group:
+            - Minimum: The minimum capacity is the number of Amazon EC2 instances that launch immediately after you have created the Auto Scaling group
+            - Desired: this will be created when the services starts, until scale in or scale out event is triggered, which will go to min or max based on the rules set for scaling.
+            - Maximum
+- ELB (Elastic Load Balancing)
+    - Regonal construct
 - Cloud Watch
 - IAM
+- Cloud front: store cached copies of your content closer to your customers for faster delivery. It uses Edge location
+- outpost
+    - require an AWS instances at your own datacenter
+
+- Elastic Beanstalk
+    - Provison EC2 infrastrure
+    - Free
+-  AWS CloudFormation
+    - infrastructure as code

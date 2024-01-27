@@ -1,5 +1,7 @@
 # Cloud Terms
 
+- Cloud computing: The on-demand delivery of IT resources over the internet with pay-as-you-go pricing
+
 - TCO : Total Cost of Ownership
   - ( purchase price + operating cost ) * assets lifespan [1]
   - In terms of Cloud [2]
