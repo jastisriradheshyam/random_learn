@@ -11,6 +11,8 @@
     - cost of personal required to to maintain the cloud resource
     - etc. concerned to maintain the lifecycle of system on cloud. 
 
+- VPC: Virtual Private Cloud
+
 ## References:
 
 [1]: [Total Cost of Ownership: What's Included and an Example](https://www.investopedia.com/terms/t/totalcostofownership.asp)

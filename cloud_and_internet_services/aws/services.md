@@ -62,3 +62,7 @@
     - Free
 -  AWS CloudFormation
     - infrastructure as code
+- AWS Direct Connect
+    - Connect you on prem datacenter to AWS datacenter (VPC) via a direct, dedicated physical line.
+    - The customer has to connect with direct connect parter to achive this.
+ 
