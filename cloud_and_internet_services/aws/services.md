@@ -65,4 +65,10 @@
 - AWS Direct Connect
     - Connect you on prem datacenter to AWS datacenter (VPC) via a direct, dedicated physical line.
     - The customer has to connect with direct connect parter to achive this.
- 
+- Route 53
+    - DNS service (register domain name and manage DNS for already registered names on other services )
+    - Routing polices
+        - Latency based routing
+        - Geolocation DNS
+        - Geoproximity routing
+        - Weighted round robin
