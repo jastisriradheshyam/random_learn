@@ -1,3 +1,15 @@
+/*
+ * #E7EBE0 - Lightest Sky (light back)
+ * #1C1C1BFF - Nebulosity
+ * #9f9f9f - Grey
+ * #422057FF - purple
+ * #B0B8B4 - Storm Gray (Dark back)
+ * #567572 - Sagebrush Green (#565752 - small variation)
+ * #28334A - Navy
+ * https://designwizard.com/blog/colour-combination/
+ *
+ */
+
 .title {
 	color: grey;
 	font-size: 8em;
